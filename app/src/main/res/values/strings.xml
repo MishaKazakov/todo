@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Список дел</string>
+
+    <string name="add_to_do_title">Добавление задания</string>
+    <string name="complte_todo">Завершить задание</string>
+
+    <string name="item_title">Название</string>
+    <string name="item_status">Статус</string>
+    <string name="item_importance">Важность</string>
+    <string name="item_description">Описание</string>
+    <string name="item_date">Дата</string>
+    <string name="btn_add_date">Добавить дату</string>
+    <string name="btn_create">Добавить</string>
+
+    <string-array name="importances">
+        <item value="1">Низкая</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
+    </string-array>
+
+    <string name="btn_show_all">Все</string>
+    <string name="btn_show_active">Активные</string>
+    <string name="btn_show_completed">Завершенные</string>
+</resources>
